@@ -1,5 +1,5 @@
 # 🛍️ Shop Management System 🧾  
-A simple yet powerful Python-based console application to manage inventory, sales, and product records — perfect for small retail shops, stalls, or local businesses.
+A simple yet powerful Python-based GUI application to manage inventory, sales, and product records — perfect for small retail shops, stalls, or local businesses.
 
 ---
 
@@ -40,7 +40,6 @@ Every sale includes:
 - Daily/monthly sales summary  
 - Low-stock product alerts  
 - PDF bill generation  
-- GUI (Tkinter) or Web (Flask) version
 
 ---
 
