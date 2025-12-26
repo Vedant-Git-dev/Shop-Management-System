@@ -62,7 +62,6 @@ Special thanks to:
 
 - All open-source contributors who inspire clean and modular code practices
 - [Real Python](https://realpython.com/) – for Python best practices and learning resources
-- My mentors, peers, and the developer community who provided feedback during development
 
  ---
 
